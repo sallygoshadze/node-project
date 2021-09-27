@@ -157,4 +157,8 @@ dist
 .yarn/install-state.gz
 .pnp.\*
 
+# TypeORM
+
+ormconfig.json
+
 # End of https://www.toptal.com/developers/gitignore/api/node
